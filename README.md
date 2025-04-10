@@ -1,3 +1,3 @@
-# - SFML Projects (👾)!
+# - SFML Projects [👾]!
 
-| All I do with SFML (🤖), i will post here! 
+### `| All I do with SFML (🤖), i will post here!`
